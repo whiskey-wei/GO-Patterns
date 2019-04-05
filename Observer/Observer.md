@@ -10,4 +10,4 @@
   
 **如何解决**：使用面向对象技术，可以将这种依赖关系弱化。  
 
-[**实现**](https://blog.csdn.net/lkysyzxz/article/details/79591005)
+[**代码实现**](https://blog.csdn.net/lkysyzxz/article/details/79591005)
